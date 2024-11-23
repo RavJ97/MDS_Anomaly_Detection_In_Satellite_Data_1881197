@@ -2,7 +2,7 @@
 
 This repository is for my Data Science Research Project for my masters degree in Data Science at The University of Adelaide.
 
-The python coding provided in this repository provides Exploratory Data Analysis for 5 satellites and it also provides forecasting using ARIMA for each element in the time series data.
+The python coding provided in this repository provides Exploratory Data Analysis for 5 satellites and it also provides forecasting using ARIMA and XGBoost for time series data.
 
 The jupyter notebooks are named in a manner where EDA files and forecasting files can be easily recognized. The file format shows whether it is EDA or Forecasting, the satellite which is being analysed, the elements which are being forecasted, etc.
 
